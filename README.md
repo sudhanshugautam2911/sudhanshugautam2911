@@ -15,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshugautam2911&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="parveshsaini" /> </p>
 
 
-- 🌱 I’m learning ***AWS Cloud***
+- 🌱 I’m learning ***GraphQL***
 
 - 💬 Ask me about **Web Development & Open Source**
 
