@@ -27,3 +27,5 @@
 
 ## 🛠 Skills
 ![My Skills](https://skillicons.dev/icons?i=react,docker,typescript,js,html,css,cpp,tailwind,firebase,nodejs,express,mongodb,git,photoshop,figma)
+
+[![An image of @sudhanshugautam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshugautam)](https://holopin.io/@sudhanshugautam)
