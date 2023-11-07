@@ -2,10 +2,6 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sudhanshugautam2911" alt="CoDiNg RocKs"  width="60%"/><br> 
   
-<br><br> Vibing to : 🎧  </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-
 </div>
 <h1 align="center">Hi Folks, I'm Sudhanshu 🎈</h1>
 <h3 align="center">Full Stack Developer</h3>
