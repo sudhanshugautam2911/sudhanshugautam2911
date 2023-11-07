@@ -31,3 +31,11 @@
 
 
 [![An image of @sudhanshugautam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshugautam)](https://holopin.io/@sudhanshugautam)
+
+---
+
+### :fire: My Stats :
+[![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhanshugautam2911&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/sudhanshugautam2911/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshugautam2911&layout=compact&theme=vision-friendly-dark)](https://github.com/sudhanshugautam2911/github-readme-stats)
