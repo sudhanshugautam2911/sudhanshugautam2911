@@ -14,6 +14,9 @@
 - 🌱 I’m learning ***NextJs***
 
 - 💬 Ask me about **Web Development & Open Source**
+- ReactJs, NextJs, Tailwind, Shadcn UI
+- MongoDB, ExpressJs
+- Stripe, Clerk, Openai & Replicate
 
 <br>
 <br>
