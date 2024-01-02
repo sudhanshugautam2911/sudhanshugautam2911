@@ -14,8 +14,11 @@
 - 🌱 I’m learning ***NextJs***
 
 - 💬 Ask me about **Web Development & Open Source**
+
+<h3 align="left">SKILLS</h3>
+
 - ReactJs, NextJs, Tailwind, Shadcn UI
-- MongoDB, ExpressJs
+- MongoDB, NodeJs, ExpressJs
 - Stripe, Clerk, Openai & Replicate
 
 <br>
@@ -29,7 +32,7 @@
 <hr>
 
 ## 🛠 Skills
-![My Skills](https://skillicons.dev/icons?i=react,docker,typescript,js,html,css,cpp,tailwind,firebase,nodejs,express,mongodb,git,photoshop,figma)
+![My Skills](https://skillicons.dev/icons?i=react,next,docker,typescript,js,html,css,tailwind,firebase,nodejs,express,mongodb,git,photoshop,figma)
 
 
 
