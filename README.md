@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshugautam2911&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="sudhanshu" /> </p>
 
 
-- 🌱 I’m learning ***MySql***
+- 🌱 I’m learning ***PostgreSQL***
 
 - 💬 Ask me about **Web Development & Open Source**
 
