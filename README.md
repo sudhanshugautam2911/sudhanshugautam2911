@@ -17,8 +17,8 @@
 
 <h3 align="left">SKILLS</h3>
 
-- ReactJs, NextJs, Tailwind, Shadcn UI
-- MongoDB, NodeJs, ExpressJs
+- ReactJs, NextJs, Tailwind, Shadcn UI, Javascript, Typescript
+- PostgreSQL, MongoDB, NodeJs, ExpressJs, Prisma
 - Stripe, Clerk, Openai & Replicate
 
 <br>
