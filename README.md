@@ -1,7 +1,4 @@
 <div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sudhanshugautam2911" alt="CoDiNg RocKs"  width="60%"/><br> 
-  
 </div>
 <h1 align="center">Hi Folks, I'm Sudhanshu 🎈</h1>
 <h3 align="center">Full Stack Developer</h3>
@@ -18,9 +15,11 @@
 <h3 align="left">SKILLS</h3>
 
 - ReactJs, NextJs, Tailwind, Shadcn UI, Javascript, Typescript
-- PostgreSQL, MongoDB, NodeJs, ExpressJs, Prisma
-- Serverless backends ( cloudflare workers )
-- Stripe, Clerk, Openai & Replicate
+- NodeJs, ExpressJs, Prisma ORM, SQL
+- PostgreSQL, MongoDB
+- Turborepo
+- nextAuth, Payment Gateways.
+- Serverless backends, cloudflare, AWS ec2, AWSS3, AWS Lambda.
 
 <br>
 <br>
