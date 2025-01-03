@@ -18,8 +18,8 @@
 - Javascript, Typescript, SQL
 - nextAuth, Stripe, Razorpay
 - NodeJs, ExpressJs, Prisma ORM
-- PostgreSQL, MongoDB
-- Turborepo
+- Redis, PostgreSQL, MongoDB
+- Turborepo, Web-socket
   
 <h5 align="left">DEVOPS</h3>
 
