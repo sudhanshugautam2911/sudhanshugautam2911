@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshugautam2911&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="sudhanshu" /> </p>
 
 
-- 🌱 I’m learning ***Kubernetes***
+- 🌱 I’m exploring ***AWS Lambda and serverless architecture***
 
 - 💬 Ask me about **Web Development & Open Source**
 
