@@ -24,7 +24,7 @@
 <h5 align="left">DEVOPS</h3>
 
 - CI/CD Pipeline
-- Docker, AWS ec2, S3, Lambda
+- Docker, AWS ec2, S3
 - Serverless Backends, Cloudflare, CDN
 
 <br>
